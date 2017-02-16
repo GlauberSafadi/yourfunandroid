@@ -1,0 +1,34 @@
+{
+    "Id": 1,
+    "Title": "Reveillon Maraca Style",
+    "Banner": "",
+    "Artists": [
+        {
+            "Id": 1,
+            "Name": "",
+            "Type": "",
+            "Picture": "",
+            "Description": "",
+            "Country": "",
+            "Region": "",
+            "Url": "",
+            "Cadastred": "",
+            "Updated": "",
+            "IsActived": true
+        }
+    ],
+    "Place": {},
+    "PlaceId": 0,
+    "Description": "",
+    "Date": "",
+    "Time": "",
+    "Tickets": [],
+    "PlaceToBuyTicket": [],
+    "Url": "",
+    "Classification": "",
+    "ProducerId": 0,
+    "Producer": {},
+    "Cadastred": "",
+    "Updated": "",
+    "IsActived": true
+}
