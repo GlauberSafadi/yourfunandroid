@@ -4,10 +4,10 @@
 
     <item
         android:id="@+id/tb_pesquisa_id"
-        android:actionViewClass="android.support.v7.widget.SearchView"
         android:icon="@android:drawable/ic_menu_search"
         android:orderInCategory="1"
         android:title="@string/tb_pesquisa"
+        app:actionViewClass="android.support.v7.widget.SearchView"
         app:showAsAction="always" />
 
     <!-- Os items abaixo são só caso precisemos de alguma opção no menu-->
