@@ -11,13 +11,15 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <provider
-            android:name="yourfun.providers.EventoProvider"
-            android:authorities="yourfun"
-            android:enabled="true"
-            android:exported="true" />
 
-        <activity android:name="br.com.yourfun.MainActivity"></activity>
+        <activity android:name="br.com.yourfun.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
     </application>
 
 </manifest>

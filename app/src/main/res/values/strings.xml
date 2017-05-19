@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">yourfun</string>
+    <string name="tb_pesquisa">Tb_Pesquisa</string>
+    <string name="item_exemplo_01">Item_Exemplo 01</string>
+    <string name="item_exemplo_02">Item_Exemplo 02</string>
+
+    <string-array name="array_eventos_exemplos">
+
+        <item>SAMPA</item>
+        <item>Clube Metrópole</item>
+        <item>Canela Gastrobar</item>
+        <item>Winner Sports Bar</item>
+        <item>Conchitas Bar</item>
+        <item>The Joker Pub</item>
+        <item>Capibar</item>
+        <item>Villarena Country Pub</item>
+        <item>Beer Garden 17</item>
+        <item>Pub Crawl Recife</item>
+        <item>Lesbian Bar</item>
+        <item>Texas Café Bar</item>
+
+    </string-array>
+
 </resources>
